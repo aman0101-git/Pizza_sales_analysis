@@ -1,7 +1,7 @@
 # Pizza_sales_analysis
 SQL Project for Data Analytics
 
-# Key Insights from PizzaHub Sales Analysis
+# Key Insights
 
 # Order Statistics:
 Total number of orders: 21,350.
@@ -24,7 +24,7 @@ Peak sales time: 12 PM to 1 PM.
 # Top-Selling Pizzas:
 Best-selling pizzas contribute significantly to revenue, with distinct top-performing pizzas in each category.
 
-# Recommendations to Increase Sales
+# Recommendations
 Focus on Popular Items:
 Promote the top-selling pizzas and the Classic category through discounts and bundle deals to capitalize on customer preferences.
 
